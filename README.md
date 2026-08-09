@@ -5,17 +5,14 @@
   </picture>
 </p>
 
-<p align="center">
-  Industrial engineering · Logistics · Data-driven decision support
-</p>
+Industrial engineering & logistics management graduate · technical blogger · macOS tinkerer · data-minded builder
 
-<p align="center">
-  <a href="https://jingyuan-zheng.github.io"><img src="https://img.shields.io/badge/Website-34495E?logo=googlechrome&logoColor=white" alt="Website" /></a>
+<p>
+  <a href="https://jingyuan-zheng.github.io"><img src="https://jingyuan-zheng.github.io/favicon.png" alt="Website" width="20" height="20" /></a>
+  <a href="https://jingyuan-zheng.github.io"><img src="https://img.shields.io/badge/Website-34495E?logoColor=white" alt="Website" /></a>
   <a href="https://x.com/AndersJheng"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:mr.jingyuan.zheng@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-Industrial engineering & logistics management graduate · technical blogger · macOS tinkerer · data-minded builder
 
 I enjoy travelling, making the most of everyday life, exploring AI tools, and turning small frustrations into simple, reliable tools. I am always looking for ways to make workflows more efficient without making life more complicated.
 
