@@ -1,7 +1,6 @@
 <p align="center">
   <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&amp;height=260&amp;color=0:7A94AB,50:D8E4ED,100:9CB4C8&amp;text=Jingyuan%20Zheng&amp;fontFamily=Arial&amp;fontSize=52&amp;fontColor=000000&amp;fontAlignY=45&amp;animation=fadeIn&amp;stroke=000000&amp;strokeWidth=1"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=38&amp;duration=2800&amp;pause=1200&amp;color=000000&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=520&amp;lines=Jingyuan+Zheng"
     alt="Jingyuan Zheng"
   />
 </p>
