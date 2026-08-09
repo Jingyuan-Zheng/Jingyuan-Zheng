@@ -1,6 +1,8 @@
 name: Update blog posts
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 8 * * *"
   workflow_dispatch:
@@ -15,3 +17,4 @@ jobs:
         with:
           feed_list: "https://jingyuan-zheng.github.io/index.xml"
           max_post_count: 5
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

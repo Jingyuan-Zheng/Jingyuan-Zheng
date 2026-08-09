@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://jingyuan-zheng.github.io">Website</a> ·
-  <a href="mailto:mr.jingyuan.zheng@gmail.com"><img src="https://img.shields.io/badge/Email-mr.jingyuan.zheng%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://jingyuan-zheng.github.io"><img src="https://img.shields.io/badge/Website-34495E?logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/AndersJheng"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mr.jingyuan.zheng@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 Industrial engineering & logistics management graduate · technical blogger · macOS tinkerer · data-minded builder
@@ -34,6 +35,13 @@ macOS · automation · developer tools · multilingual computing · operations r
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+### 📈 GitHub streak
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jingyuan-Zheng&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jingyuan-Zheng&theme=default&hide_border=true" alt="GitHub streak stats" />
+</picture>
 
 ### 📝 Latest blog posts
 

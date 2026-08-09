@@ -115,7 +115,7 @@
   <text class="line2" x="450" y="140" opacity="0">Jingyuan Zhen<tspan class="cursor">|<animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur=".8s" repeatCount="indefinite" calcMode="discrete"/></tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.413793;0.429119;1" dur="5.22s" repeatCount="indefinite" calcMode="discrete"/></text>
 
   <!-- 第二行完成：从 2.24s 一直保持到 3.32s -->
-  <text class="line2" x="450" y="140" opacity="0">Jingyuan Zheng<tspan class="cursor">|<animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur=".8s" repeatCount="indefinite" calcMode="discrete"/></tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.429119;0.636015;1" dur="5.22s" repeatCount="indefinite" calcMode="discrete"/></text>
+  <text class="line2" x="450" y="140" opacity="0">Jingyuan Zheng.<tspan class="cursor">|<animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur=".8s" repeatCount="indefinite" calcMode="discrete"/></tspan><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.429119;0.636015;1" dur="5.22s" repeatCount="indefinite" calcMode="discrete"/></text>
 
 
   <!-- =========================
