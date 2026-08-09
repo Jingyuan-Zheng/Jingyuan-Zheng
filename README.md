@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./typing.svg" alt="Animated introduction" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./typing-dark.svg" />
+    <img src="./typing.svg" alt="Animated introduction" />
+  </picture>
 </p>
 
 <p align="center">
@@ -8,7 +11,7 @@
 
 <p align="center">
   <a href="https://jingyuan-zheng.github.io">Website</a> ·
-  <a href="mailto:mr.jingyuan.zheng@gmail.com">Email</a>
+  <a href="mailto:mr.jingyuan.zheng@gmail.com"><img src="https://img.shields.io/badge/Email-mr.jingyuan.zheng%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 Industrial engineering & logistics management graduate · technical blogger · macOS tinkerer · data-minded builder
@@ -36,7 +39,3 @@ macOS · automation · developer tools · multilingual computing · operations r
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-### 🔗 Find me
-
-[Website](https://jingyuan-zheng.github.io) · [GitHub](https://github.com/Jingyuan-Zheng) · [Email](mailto:mr.jingyuan.zheng@gmail.com)
