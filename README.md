@@ -46,4 +46,9 @@ macOS · automation · developer tools · multilingual computing · operations r
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert MDX Dictionaries to macOS Dictionary with an Agent Skill](https://jingyuan-zheng.github.io/p/mdx-to-macos-dictionary-skill/)
+- [Eject All DMG and ISO Images on macOS with One Shortcut](https://jingyuan-zheng.github.io/p/eject-disk-images/)
+- [macOS Default Icons Locations: Apple Mac System Icon Paths, ICNS Files, and Assets.car](https://jingyuan-zheng.github.io/p/macos-default-icons-locations-icon-finder/)
+- [Liquid Stack Is Now Open Source: A Complete Hugo Site Starter](https://jingyuan-zheng.github.io/p/liquid-stack-open-source-release/)
+- [Moving My Blog Comments to Waline: Guest Replies, Email Notifications, and Pageviews](https://jingyuan-zheng.github.io/p/waline-comment-system-migration/)
 <!-- BLOG-POST-LIST:END -->
