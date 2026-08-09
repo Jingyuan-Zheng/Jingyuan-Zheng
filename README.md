@@ -9,7 +9,7 @@
   Industrial engineering &amp; logistics management graduate · technical blogger · macOS tinkerer · data-minded builder
 </p>
 
-<p>
+<p align="center">
   <a href="https://jingyuan-zheng.github.io"><img src="https://img.shields.io/badge/Website-34495E?logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUgM2gxNHYzaC0zdjkuNWMwIDMuNi0yLjMgNS41LTYgNS41LTMuNCAwLTUuNy0xLjgtNi41LTQuN2wzLTEuMWMuNSAxLjggMS41IDIuOCAzLjUgMi44IDEuOSAwIDMtMSAzLTNWNkg1eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zIDEwLjUgNiA3LjVsMyAzLTMgM3oiLz48L3N2Zz4%3D&style=for-the-badge" alt="Website" /></a>
   <a href="https://x.com/AndersJheng"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
   <a href="mailto:mr.jingyuan.zheng@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
@@ -36,10 +36,12 @@ macOS · automation · developer tools · multilingual computing · operations r
 
 ### 📈 GitHub streak
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jingyuan-Zheng&theme=dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Jingyuan-Zheng&theme=default&hide_border=true" alt="GitHub streak stats" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jingyuan-Zheng&theme=dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Jingyuan-Zheng&theme=default&hide_border=true" alt="GitHub streak stats" />
+  </picture>
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Jingyuan-Zheng&color=34495E&style=for-the-badge)
 
