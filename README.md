@@ -48,9 +48,9 @@ macOS · automation · developer tools · multilingual computing · operations r
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Preview Archives and Disk Images in Finder: Archive Peek for ZIP, DMG, and ISO](https://jingyuan-zheng.github.io/p/archive-peek-macos-quick-look/)
 - [How to Use Any Video as a macOS Wallpaper with System-Level Lock Screen and Unlock Effects &lpar;Plus: Snoopy Screen Saver and Wallpaper Guide&rpar;](https://jingyuan-zheng.github.io/p/macos-custom-video-wallpaper-snoopy/)
 - [Convert MDX Dictionaries to macOS Dictionary with an Agent Skill](https://jingyuan-zheng.github.io/p/mdx-to-macos-dictionary-skill/)
 - [Eject All DMG and ISO Images on macOS with One Shortcut](https://jingyuan-zheng.github.io/p/eject-disk-images/)
 - [macOS Default Icons Locations: Apple Mac System Icon Paths, ICNS Files, and Assets.car](https://jingyuan-zheng.github.io/p/macos-default-icons-locations-icon-finder/)
-- [Liquid Stack Is Now Open Source: A Complete Hugo Site Starter](https://jingyuan-zheng.github.io/p/liquid-stack-open-source-release/)
 <!-- BLOG-POST-LIST:END -->
