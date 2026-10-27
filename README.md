@@ -48,9 +48,9 @@ macOS · automation · developer tools · multilingual computing · operations r
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Preview Archives and Disk Images in Finder: Archive Peek for ZIP, DMG, and ISO](https://jingyuan-zheng.github.io/p/archive-peek-macos-quick-look/)
-- [How to Use Any Video as a macOS Wallpaper with System-Level Lock Screen and Unlock Effects &lpar;Plus: Snoopy Screen Saver and Wallpaper Guide&rpar;](https://jingyuan-zheng.github.io/p/macos-custom-video-wallpaper-snoopy/)
-- [Convert MDX Dictionaries to macOS Dictionary with an Agent Skill](https://jingyuan-zheng.github.io/p/mdx-to-macos-dictionary-skill/)
-- [Eject All DMG and ISO Images on macOS with One Shortcut](https://jingyuan-zheng.github.io/p/eject-disk-images/)
-- [macOS Default Icons Locations: Apple Mac System Icon Paths, ICNS Files, and Assets.car](https://jingyuan-zheng.github.io/p/macos-default-icons-locations-icon-finder/)
+- [Export Selected PDF Pages as PNG Images from Finder on Mac](https://jingyuan-zheng.github.io/p/pdf-page-extractor/)
+- [Organize an Exported Photo Library on Mac: Live Photos, Duplicates, and Capture Dates](https://jingyuan-zheng.github.io/p/gallery-organizer/)
+- [View Photo, Video, Audio, and Live Photo Metadata on Mac](https://jingyuan-zheng.github.io/p/view-media-info/)
+- [Move a Second Mac Display Above, Below, Left, or Right with Display Layout](https://jingyuan-zheng.github.io/p/display-layout/)
+- [Review File Versions on Mac with Compare Files Viewer](https://jingyuan-zheng.github.io/p/compare-files-viewer/)
 <!-- BLOG-POST-LIST:END -->
