@@ -21,7 +21,7 @@ My academic interests include operations research, supply-chain analysis, reliab
 
 ### ✨ Interests
 
-macOS · automation · developer tools · multilingual computing · operations research · data analysis · resilient systems
+vibe coding · macOS · automation · developer tools · Linux · multilingualism · productivity tools · operations research · data analysis · resilient systems
 
 ### 🛠️ Tools
 
@@ -33,6 +33,7 @@ macOS · automation · developer tools · multilingual computing · operations r
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 
 ### 📈 GitHub streak
 
