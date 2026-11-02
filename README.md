@@ -50,8 +50,8 @@ vibe coding · macOS · automation · developer tools · Linux · multilingualis
 
 <!-- BLOG-POST-LIST:START -->
 - [Export Selected PDF Pages as PNG Images from Finder on Mac](https://jingyuan-zheng.github.io/p/pdf-page-extractor/)
+- [Ġabra Dictionary Update: Offline Maltese Lookup on Phones, Windows, and Linux](https://jingyuan-zheng.github.io/p/gabra-mdx-cross-platform-update/)
 - [Organize an Exported Photo Library on Mac: Live Photos, Duplicates, and Capture Dates](https://jingyuan-zheng.github.io/p/gallery-organizer/)
 - [View Photo, Video, Audio, and Live Photo Metadata on Mac](https://jingyuan-zheng.github.io/p/view-media-info/)
 - [Move a Second Mac Display Above, Below, Left, or Right with Display Layout](https://jingyuan-zheng.github.io/p/display-layout/)
-- [Review File Versions on Mac with Compare Files Viewer](https://jingyuan-zheng.github.io/p/compare-files-viewer/)
 <!-- BLOG-POST-LIST:END -->
